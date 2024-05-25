@@ -11,6 +11,9 @@ This project focuses on Autism Diagnostics using machine learning techniques. Th
 - **Supervised Learning Model**: Trained on a labeled dataset to predict ASD diagnoses based on questionnaire responses.
 - **Unsupervised Learning Exploration**: Utilized to identify potential patterns in autism characteristics, highlighting the complexity of ASD.
 
+## Author
+Skye Chao
+
 ## Installation
 1. Clone the repository:
    ```bash
