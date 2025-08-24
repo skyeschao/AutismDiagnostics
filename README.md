@@ -1,5 +1,5 @@
 # AutismDiagnostics
-Machine Learning Model Predicts Autism
+Machine Learning Model (Classifier) that predicts Autism
 
 ## Overview
 This project focuses on Autism Diagnostics using machine learning techniques. The primary objective is to predict whether an individual is on the autism spectrum based on their responses to the AQ10 Questionnaire. The project leverages both supervised and unsupervised learning methods:
